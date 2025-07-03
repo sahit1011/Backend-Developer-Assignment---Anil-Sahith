@@ -2,39 +2,13 @@
 
 A full-stack business intelligence dashboard built for Wayne Enterprises, showcasing key insights from company data through a FastAPI backend and Next.js frontend.
 
-## 🎬 Live Demo
+## 🎬 Dashboard Demo
 
-### 📺 Dashboard Preview
-
-<div align="center">
-
-[![Wayne Enterprises Dashboard Demo](https://img.shields.io/badge/🎥_Download_Demo_Video-52.9MB-red?style=for-the-badge)](demo/wayne-enterprises-dashboard-demo.mp4)
-
-**Click the badge above to download the demo video**
-
-</div>
+[![Wayne Enterprises Dashboard Demo](https://img.shields.io/badge/🎥_Download_Demo_Video-Click_Here-blue?style=for-the-badge&logo=play)](demo/wayne-enterprises-dashboard-demo.mp4)
 
 > **Executive-Level Business Intelligence Dashboard** - Professional data visualization with interactive charts, real-time insights, and Wayne Enterprises branding.
 
-### 🚀 Quick Preview Features:
-- ✨ **Enhanced Executive Summary Cards** with gradient animations
-- 📊 **Professional Chart Visualizations** (Area, Donut, Bar charts)
-- 📰 **Newspaper-style Data Narrative** with Wayne Enterprises branding
-- 🎯 **Interactive Tooltips** and hover effects
-- 📱 **Responsive Design** for all screen sizes
-
-*The demo video showcases all enhanced features and professional styling improvements.*
-
-### 📸 Dashboard Screenshots
-
-<div align="center">
-
-| Executive Summary Cards | Interactive Charts | Data Narrative |
-|:---:|:---:|:---:|
-| ![Executive Cards](https://via.placeholder.com/300x200/1f2937/ffffff?text=Executive+Summary+Cards) | ![Charts](https://via.placeholder.com/300x200/1f2937/ffffff?text=Interactive+Charts) | ![Narrative](https://via.placeholder.com/300x200/1f2937/ffffff?text=Data+Narrative) |
-| Professional gradient cards with animations | Area, donut, and bar charts with tooltips | Newspaper-style layout with branding |
-
-</div>
+� **[Download Full Demo Video (MP4)](demo/wayne-enterprises-dashboard-demo.mp4)** - *52.9MB*
 
 ## 🚀 Features
 
