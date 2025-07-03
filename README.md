@@ -2,6 +2,17 @@
 
 A full-stack business intelligence dashboard built for Wayne Enterprises, showcasing key insights from company data through a FastAPI backend and Next.js frontend.
 
+## 🎬 Live Demo
+
+<video width="100%" controls>
+  <source src="demo/wayne-enterprises-dashboard-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+> **Executive-Level Business Intelligence Dashboard** - Professional data visualization with interactive charts, real-time insights, and Wayne Enterprises branding.
+
+*Watch the demo above to see the dashboard in action, or scroll down for detailed features and setup instructions.*
+
 ## 🚀 Features
 
 ### 📊 Dashboard Components
