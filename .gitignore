@@ -248,12 +248,15 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# Keep important files
+# Assignment-specific documentation (not for public viewing)
+docs/assignment/
+
+# Keep important files for public repository
 !README.md
 !DEPLOYMENT.md
-!PROJECT_STRUCTURE.md
 !TESTING_CHECKLIST.md
-!SCREEN_RECORDING_SCRIPT.md
+!TECH_PLAN.md
+!PROJECT_STRUCTURE.md
 !SUBMISSION_CHECKLIST.md
 !start-dashboard.ps1
 !start-dashboard.bat
